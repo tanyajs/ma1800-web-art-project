@@ -1,4 +1,6 @@
 Hello,
+https://tanyajs.github.io/ma1800-web-art-project/
+
 
 My project idea is interactive scrolling and clickable gifs that lead to website links and other pages depending on what gif you have clicked, however some of the gifs do not have links so you would have to test it out when clicking on a random one (the first line down of gifs have links until you see it is repeated you may need to press on the rest to see if they have a link). The coding for this is quite repetitive since the gifs are repeated when you're scrolling therefore id have to copy and paste the code to have the gifs scrolling for longer down the page. The context behind this project is that you are scrolling for a few seconds and then reach the end of the page to press 'continue' but there's no actual reward for scrolling, in simple terms its meant to reflect on how people scroll on social media with no actual purpose at the end. 
 
